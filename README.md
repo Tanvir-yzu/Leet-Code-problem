@@ -1,4 +1,4 @@
-Sure, here's a basic template for a README file. You can fill in the details as needed for your project.
+
 
 ```markdown
 # Project Title
@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing <Leet-code>
 
-To install <project_name>, follow these steps:
+To install <leet code>, follow these steps:
 
 Linux and macOS:
 ```bash
@@ -28,9 +28,9 @@ Windows:
 ```
 
 
-## Using <project_name>
+## Using <leet code>
 
-To use <project_name>, follow these steps:
+To use <leet code>, follow these steps:
 
 ```bash
 <usage_command>
@@ -43,9 +43,9 @@ git push -u origin main
 git remote rm origin
 
 
-## Contributing to <project_name>
+## Contributing to <leer code>
 
-To contribute to <project_name>, follow these steps:
+To contribute to <leet code>, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
@@ -57,11 +57,9 @@ Alternatively see the GitHub documentation on creating a pull request.
 
 ## Contact
 
-If you want to contact me you can reach me at <your_email>.
+If you want to contact me you can reach me at <2020tanvir1971@gmail.com>.
 
 ## License
 
 This project uses the following license: <license_name>.
 ```
-
-Replace `<project_name>`, `<install_command>`, `<usage_command>`, `<branch_name>`, `<commit_message>`, `<your_email>`, and `<license_name>` with the appropriate values for your project.
