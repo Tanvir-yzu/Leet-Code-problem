@@ -62,4 +62,3 @@ If you want to contact me you can reach me at <2020tanvir1971@gmail.com>.
 ## License
 
 This project uses the following license: <license_name>.
-```
