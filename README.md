@@ -15,13 +15,6 @@ Before you begin, ensure you have met the following requirements:
 ## Installing <Leet-code>
 
 To install <leet code>, follow these steps:
-
-Linux and macOS:
-```bash
-<install_command>
-```
-
-
 Windows:
 ```bash
 <install_command>
