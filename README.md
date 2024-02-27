@@ -36,7 +36,7 @@ To use <project_name>, follow these steps:
 <usage_command>
 ```
 
-git remote add origin https://github.com/Tanvir-yzu/leet-code.git
+git remote add origin https://github.com/Tanvir-yzu/Leet-Code-problem.git
 git branch -M main
 git push -u origin main
 
